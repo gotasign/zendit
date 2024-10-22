@@ -1,6 +1,7 @@
-[ETHGLOBALSF2024](https://ethglobal.com/showcase/zend-it-0f93v)
+[ETHGlobalSF2024](https://ethglobal.com/showcase/zend-it-0f93v)
+
 1st Ledger Best App
-Polygon Voted Best zkAPP
+Polygon Voted Best zkAPP 
 
 
 # Zendit - Secure Blockchain Transaction Verification
